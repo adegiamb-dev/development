@@ -16,6 +16,7 @@ This became text editor since its a light weight and has tons of extensions for 
 | [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | Most of my scripting is with Powershell 
 | [Remote WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) | Allows you to interact with any folder from windows sub system.
 | [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | Started to use this over post man. 
+| [ESLint](https://github.com/Microsoft/vscode-eslint) | Integrates ESLinto into VS Code 
 
 ## Git Fork
 I sucks at Git commands (I know I need to work on this) so I use Git Fork:
